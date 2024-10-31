@@ -43,10 +43,7 @@ namespace BOOK.Class
                 else deferance = (0); Console.WriteLine($"Siz sotib olmoqchi bulgan kitobni ola olasiz:");
             }
 
-            public void DefirencePrice()
-            {
-                Console.WriteLine($"Siz sotib olmoqchi bulgan kitob {deferance } ga qimmat:");
-            }
+            
 
         }
     }

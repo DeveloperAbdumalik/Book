@@ -12,3 +12,4 @@ C:\Users\Abdumalik\Desktop\Book\obj\Debug\net8.0\refint\Book.dll
 C:\Users\Abdumalik\Desktop\Book\obj\Debug\net8.0\Book.pdb
 C:\Users\Abdumalik\Desktop\Book\obj\Debug\net8.0\Book.genruntimeconfig.cache
 C:\Users\Abdumalik\Desktop\Book\obj\Debug\net8.0\ref\Book.dll
+C:\Users\Abdumalik\Desktop\Book\obj\Debug\net8.0\Book.sourcelink.json
